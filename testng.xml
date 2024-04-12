@@ -7,18 +7,18 @@
 	</listeners>
 
 	<test name="Test ConnectSecure Application">
-<!--		<classes>
+		<classes>
 			 <class name="com.connectsecure.test.ui.connectsecure.TestLogInPage" />
 			     <class name="com.connectsecure.test.ui.connectsecure.TestGenralSettingsPage" />
 			     <class name="com.connectsecure.test.ui.connectsecure.TestCreateCompanyPage" />
 			     <class name="com.connectsecure.test.ui.connectsecure.TestGlobalSettingsPage" /> 
 			     <class name="com.connectsecure.test.ui.connectsecure.TestTagRulePage" />
-		</classes>-->
+		</classes>
 
 
-	 /<packages>
+	<!-- /<packages>
 			<package name="com.connectsecure.test.ui.connectsecure.*"/>
-		</packages>
+		</packages> -->
 
 	</test>
 </suite>
